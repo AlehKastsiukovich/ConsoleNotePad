@@ -12,6 +12,8 @@ public class TestNoteBook {
         noteBook.addNoteToList(noteBook.createNote());
         noteBook.addNoteToList(noteBook.createNote());
 
+        System.out.println("Test!");
+
         FileListWriter.writeList(noteBook.getNoteList());
     }
 }
