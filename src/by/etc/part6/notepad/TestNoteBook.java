@@ -13,6 +13,7 @@ public class TestNoteBook {
         noteBook.addNoteToList(noteBook.createNote());
 
         System.out.println("Test!");
+        System.out.println("Test2!");
 
         FileListWriter.writeList(noteBook.getNoteList());
     }
