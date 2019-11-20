@@ -1,5 +1,6 @@
 package by.etc.part6.notepad;
 
+
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
